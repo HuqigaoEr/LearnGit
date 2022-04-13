@@ -2,7 +2,7 @@ describe("Login",function(){
 
     const Url = "https://www.baidu.com/"
 
-    const Name = "13932869520"
+    const Name = "qqq"
 
     const Password = "Hh991230"
 
